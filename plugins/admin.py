@@ -1,4 +1,4 @@
-from pyrogram.types import (InlineKeyboardButton, InlineKeyboardMarkup)
+ṁfrom pyrogram.types import (InlineKeyboardButton, InlineKeyboardMarkup)
 from config import *
 from pyrogram import Client, filters
 from helper.date import add_date
@@ -110,7 +110,7 @@ async def cp1(bot,update):
     usertype(int(user_id),"⚠️ Account Downgraded")
     addpre(int(user_id))
     await update.message.edit("Added Successfully To Upload Limit 2GB")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 2GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 2GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @oo7jatji")
 
 
 
@@ -123,7 +123,7 @@ async def cp2(bot,update):
     usertype(int(user_id),"⚠️ Account Downgraded")
     addpre(int(user_id))
     await update.message.edit("Added Successfully To Upload Limit 0GB")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 0GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 0GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @oo7jatji")
 
 
 
