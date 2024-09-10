@@ -12,18 +12,18 @@ Price 0
 
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 49  ind /🌎 0.59$  per Month
+Price Rs 25 ind /🌎 0.5$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 99  ind /🌎 1.19$  per Month
+Price Rs 50 ind /🌎 1$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 179  ind /🌎 2.16$  per Month
+Price Rs 100 ind /🌎 1.5$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
+<b>➜ UPI ID :</b> <code>007jatji@ybl</code>
 <b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
 <b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
 
